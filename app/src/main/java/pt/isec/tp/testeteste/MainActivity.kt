@@ -9,11 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    override fun onStop() {
-        super.onStop()
-    }
 
-    override fun onRestart() {
-        super.onRestart()
-    }
 }
